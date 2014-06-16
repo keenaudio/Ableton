@@ -1,4 +1,8 @@
 Ableton
 =======
 
-Place on top of /Users/&lt;username>/Documents/Ableton (Windows) or /Users/&lt;username>/Music/Ableton (Mac)
+###Windows
+Place on top of **/Users/username/Documents/Ableton**
+
+###Mac
+Place on top of **/Users/username/Music/Ableton**
